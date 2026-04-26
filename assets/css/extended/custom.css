@@ -1,0 +1,22 @@
+body,
+.main {
+  background: #0a0a0a !important;
+}
+
+.post-entry {
+  background: #121212 !important; /* cards levemente mais claros */
+  border: 1px solid #1f1f1f !important;
+}
+
+.post-content {
+  color: #eaeaea !important;
+}
+
+.entry-header h2,
+.logo a {
+  color: #ffffff !important;
+}
+
+.meta {
+  color: #aaaaaa !important;
+}

@@ -5,5 +5,25 @@ theme = "PaperMod"
 
 [params]
   defaultTheme = "dark"
-  showReadingTime = true
-  showShareButtons = false
+  disableThemeToggle = true
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+
+[params.homeInfoParams]
+  Title = "Miguel"
+  Content = "Textos, ideias e estudos."
+
+[[params.socialIcons]]
+  name = "instagram"
+  url = "https://instagram.com/miguelablp"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/miguel-d-758a283a9/?locale=en"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+

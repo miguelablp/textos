@@ -1,16 +1,18 @@
 +++
-date = '2026-04-25T21:35:19-03:00'
+
+title = "Título do Post"
+
+date = 2026-04-25T21:35:19-03:00
+
 draft = false
-title = 'CARALHOO Post'
+
+
+
+ShowReadingTime = true
+
+ShowToc = true
+
+TocOpen = false
+
 +++
-
-
-
-
-
-\# Meu primeiro post
-
-
-
-Texto vindo do Obsidian.
 

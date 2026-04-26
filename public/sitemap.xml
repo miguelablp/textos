@@ -2,19 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/textos/posts/primeiro-post---copia-2/</loc>
-    <lastmod>2026-04-25T21:35:19-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/textos/posts/</loc>
     <lastmod>2026-04-25T21:35:19-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/textos/posts/primeiro-post---copia/</loc>
-    <lastmod>2026-04-25T21:35:19-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/textos/posts/primeiro-post/</loc>
-    <lastmod>2026-04-25T21:35:19-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/textos/</loc>
+    <lastmod>2026-04-25T21:35:19-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/textos/posts/primeiro-post---copia-2/</loc>
     <lastmod>2026-04-25T21:35:19-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/textos/categories/</loc>
