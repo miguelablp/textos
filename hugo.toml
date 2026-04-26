@@ -1,0 +1,9 @@
+baseURL = "https://miguelablp.github.io/textos/"
+languageCode = "pt-br"
+title = "Textos"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "dark"
+  showReadingTime = true
+  showShareButtons = false
