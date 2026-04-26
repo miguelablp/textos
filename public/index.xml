@@ -6,14 +6,15 @@
     <description>Recent content on Textos</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 25 Apr 2026 21:35:19 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/textos/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Título do Post</title>
+      <title>1. Mundo moderado</title>
       <link>http://localhost:1313/textos/posts/primeiro-post---copia-2/</link>
-      <pubDate>Sat, 25 Apr 2026 21:35:19 -0300</pubDate>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/textos/posts/primeiro-post---copia-2/</guid>
-      <description></description>
+      <description>&lt;p&gt;Hoje em dia, percebe-se uma radicalidade por parte das pessoas contra outras incomensurável. Engraçado, faz-me lembrar das tantas explicações evolucionistas em torno do nosso sucesso na Terra por meio da cooperação. Da nossa facilidade em nos juntar em grandes grupos e atingir um objetivo.&lt;/p&gt;
+&lt;p&gt;Gosto de fazer a seguinte lógica. O que é informação? Siga esse raciocínio para entender. Informação, no geral, é um dado comunicado para outro de forma que esse dado trará algo para o comunicado. Eu escrevo esse texto para comunicar uma ideia que eu acho importante de ser lida.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
