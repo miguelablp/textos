@@ -3,6 +3,9 @@ languageCode = "pt-br"
 title = "Textos"
 theme = "PaperMod"
 
+canonifyURLs = true
+relativeURLs = false
+
 [params]
   defaultTheme = "dark"
   disableThemeToggle = true
