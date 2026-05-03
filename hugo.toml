@@ -17,7 +17,7 @@ relativeURLs = false
 
 [params.homeInfoParams]
   Title = "Miguel"
-  Content = "Textos, ideias e estudos."
+  Content = "Textos, ideias e estudos. Nenhum texto feito por I.A."
 
 [[params.socialIcons]]
   name = "instagram"
